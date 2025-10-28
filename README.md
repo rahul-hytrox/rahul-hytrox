@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, NextJS, Remix**
 
-- 👨‍💻 All of my projects are available at [https://kronextech.com/](https://kronextech.com/)
+- 👨‍💻 All of my projects are available at [https://kronextech.in/](https://kronextech.in/)
 
 - 💬 Ask me about **JavaScript, TypeScript, Shopify and Ionic**
 
