@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Prajapati</h1>
+<h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=30&pause=1000&color=081F96&background=FFDFDF00&center=true&vCenter=true&width=435&height=60&lines=Welcome+Folks+%F0%9F%91%8B;I+am+Rahul+Prajapati;8%2B+years+rich+experience;Full+Stack+Developer+%26+Ecommerce+Expert" alt="welcome msg" /></h1>
 <h3 align="center">Full Stack developer</h3>
 <p align="center" dir="center">
 <img src="https://i.giphy.com/media/pa4YEOBPuvOe2RhNqe/giphy.gif" align="center" height="300px" width="50%" style="max-width: 100%; display: inline-block;">
